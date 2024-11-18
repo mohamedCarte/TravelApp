@@ -1,7 +1,7 @@
 # Simple ui travel  app
 <div>
-  <img src='./assets//images/demo1.jpeg' width='150'>
-   <img src='./assets//images/demo2.jpeg' width='150'>
+  <img src='./assets//images/demo1.jpeg' width='190'>
+   <img src='./assets//images/demo2.jpeg' width='190'>
 </div>
 
 # Welcome to your Expo app 👋
